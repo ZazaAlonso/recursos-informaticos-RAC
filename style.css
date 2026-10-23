@@ -1,0 +1,11 @@
+section {
+    padding: 1rem;
+}
+
+#programming-docs {
+    background-color: rgba(from rebeccapurple r g b / 0.25);
+}
+
+#web-docs {
+    background-color: rgba(from limegreen r g b / 0.25);
+}
